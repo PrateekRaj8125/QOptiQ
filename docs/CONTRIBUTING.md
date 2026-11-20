@@ -57,7 +57,7 @@ http://127.0.0.1:8000/docs
 ### 5. Set Up the Frontend (Optional)
 
 ```bash
-cd frontend
+cd QOptiQ/code/frontend
 
 npm install
 

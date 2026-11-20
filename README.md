@@ -222,6 +222,8 @@ Set `QOPTIQ_API_KEY` to require an `X-API-Key` header on every endpoint except `
 Clone the repository:
 
 ```bash
+cd ..
+cd ..
 git clone https://github.com/PrateekRaj8125/QOptiQ.git
 
 cd QOptiQ/code

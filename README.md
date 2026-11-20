@@ -224,6 +224,7 @@ Clone the repository:
 ```bash
 cd ..
 cd ..
+
 git clone https://github.com/PrateekRaj8125/QOptiQ.git
 
 cd QOptiQ/code

@@ -1,5 +1,7 @@
 # ⚛️ QOptiQ
 
+![Github QOptiQ Banner](https://github.com/PrateekRaj8125/QOptiQ/blob/main/docs/Github-QOptiQ-Banner.png)
+
 **AI-guided, hardware-aware quantum circuit optimization and transpilation platform.**
 
 QOptiQ takes a quantum circuit, looks at the connectivity and error profile of a target device, picks a compilation strategy, applies optimization and routing passes, and reports how the circuit improved. It ships as a **FastAPI backend** with a **React + Vite dashboard**.

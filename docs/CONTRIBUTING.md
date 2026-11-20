@@ -28,6 +28,8 @@ Click the **Fork** button on GitHub to create your own copy of the repository.
 ### 2. Clone Your Fork
 
 ```bash
+cd ..
+cd ..
 git clone https://github.com/PrateekRaj8125/QOptiQ.git
 ```
 
